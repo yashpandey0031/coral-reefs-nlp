@@ -43,3 +43,5 @@ Thumbs.db
 
 # Streamlit secrets (keep .streamlit/config.toml tracked)
 .streamlit/secrets.toml
+evaluate.py
+eval_results.json
